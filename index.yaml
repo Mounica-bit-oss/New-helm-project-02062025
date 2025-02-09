@@ -3,12 +3,12 @@ entries:
   monica:
   - apiVersion: v2
     appVersion: latest
-    created: "2025-02-06T03:45:39.11558194Z"
+    created: "2025-02-09T23:30:54.370593052Z"
     description: Helm chart for Kubernetes
-    digest: bfb714533f5ab3a41ed3c784df9a44be521478b71699295d70ad13795f07cfd4
+    digest: 516a1a471b9e90290491f877df2232932d46faddfeb60e5beea67d622f399239
     name: monica
     type: application
     urls:
     - monica-0.1.0.tgz
     version: 0.1.0
-generated: "2025-02-06T03:45:39.11512428Z"
+generated: "2025-02-09T23:30:54.370057615Z"
